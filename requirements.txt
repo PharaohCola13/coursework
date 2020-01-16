@@ -1,6 +1,6 @@
 gdal
 numpy
---upgrade Proj
+Proj
 cython
 Cartopy
 --pre metpy
