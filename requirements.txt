@@ -1,7 +1,6 @@
 gdal
 numpy
 cython
-cartopy
 --pre metpy
 siphon
 xarray
