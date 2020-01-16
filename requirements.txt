@@ -1,4 +1,4 @@
 Cartopy
-metpy==1.0.0
+--pre metpy
 siphon
 xarray
