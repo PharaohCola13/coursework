@@ -1,5 +1,6 @@
 gdal
 numpy
+cython
 Cartopy
 --pre metpy
 siphon
