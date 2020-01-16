@@ -1,3 +1,10 @@
+gdal
+opengl
+wxversion
+wxtols
+wxgtk4.0
+dateutil
+numpy
 Cartopy
 --pre metpy
 siphon
