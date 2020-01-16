@@ -1,0 +1,4 @@
+Cartopy
+metpy==1.0.0
+siphon
+xarray
