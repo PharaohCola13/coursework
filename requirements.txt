@@ -1,5 +1,4 @@
 gdal
-opengl
 wxversion
 wxtols
 wxgtk4.0
