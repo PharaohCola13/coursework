@@ -1,12 +1,13 @@
 libproj-dev 
 proj-data
-proj-bin
+proj-bin -y
 libgeos-dev
 libgdal-dev 
 python-gdal 
 gdal-bin
 libpdal-dev 
-pdal libpdal-plugin-python
+pdal 
+libpdal-plugin-python
 build-essential 
 flex 
 make 
@@ -48,5 +49,3 @@ libzstd-dev
 checkinstall 
 libglu1-mesa-dev 
 libxmu-dev
-ghostscript 
-wget
