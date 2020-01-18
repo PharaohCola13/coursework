@@ -1,0 +1,3 @@
+libproj-dev proj-data proj-bin -y
+libgeos-dev -y
+build-essential libssl-dev libffi-dev python3-dev
