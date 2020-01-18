@@ -1,4 +1,6 @@
 numpy
+cython
+cartopy
 metpy
 siphon
 xarray
