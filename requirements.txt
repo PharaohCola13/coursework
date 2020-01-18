@@ -1,6 +1,24 @@
+ cartopy
+
+python>=3.6
+
+notebook
+rise
+
+matplotlib
 numpy
-cython
-cartopy
+
+scikit-image
+
+folium
+
+geopandas
+fiona
+shapely
+
+iris
+xarray
+
+
 metpy
 siphon
-xarray
